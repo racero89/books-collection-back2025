@@ -64,6 +64,5 @@ Si terminas antes, intenta agregar:
 
 - Un **loader** mientras se cargan los datos.
 - Manejo de **errores y mensajes de confirmación**.
-- Agrega un botón "Ver Colección" en cada usuario para hacer una petición a `GET /users/:id` y mostrar su colección de libros.
 
 ---
